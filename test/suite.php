@@ -12,6 +12,8 @@ class AllTests extends TestSuite {
         $this->addFile('login_form_test.php');
         $this->addFile('hours_test.php');
         $this->addFile('learnmore_test.php');
+        $this->addFile('zero_test.php');
+        $this->addFile('emptyhours_test.php');
 
     }
 }
